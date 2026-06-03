@@ -1,21 +1,111 @@
-# 💫 About Me:
-Computer Science Engineer | Java OOP Specialist | Full Stack Developer<br>From low-level (RISC-V Assembly) to high-level abstractions (Web & Mobile)<br>Passionate about building scalable solutions across the entire tech stack
+# Olá 👋
 
+**Engenheiro de Computação | Pós-graduando em Java Orientado a Objetos | Desenvolvedor Full Stack**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arlisson.alvesdasilvasilveira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arlisson_leesin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1rlisson-alves-da-silva-silveira-137669242) 
+Sou formado em Engenharia de Computação pelo Instituto Federal Fluminense e tenho experiência no desenvolvimento de sistemas desktop, web e mobile. Atuo com soluções internas para automação de processos, organização de informações e melhoria de rotinas empresariais.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arlisson&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arlisson&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arlisson&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arlisson&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Tenho interesse especial por desenvolvimento de software, Java, programação orientada a objetos, aplicações full stack, desenvolvimento mobile, banco de dados e soluções que conectam tecnologia com problemas reais.
 
 ---
-[![](https://komarev.com/ghpvc/?username=arlisson&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre mim
+
+- 🎓 Engenheiro de Computação pelo Instituto Federal Fluminense
+- ☕ Pós-graduando em Java Orientado a Objetos
+- 💻 Experiência com desenvolvimento desktop, web e mobile
+- 📱 Desenvolvimento mobile com React Native e Expo
+- 🗄️ Interesse em banco de dados, modelagem e organização de informações
+- 🤖 Experiência com automação de processos e agentes de IA
+- 📚 Gosto de aprender, documentar e transformar ideias em aplicações úteis
+
+---
+
+## Experiências e áreas de atuação
+
+- Desenvolvimento de sistemas internos para empresas
+- Automação de processos e organização de rotinas
+- Desenvolvimento de aplicações Java com foco em orientação a objetos
+- Desenvolvimento mobile com React Native e Expo
+- Criação de APIs e scripts em Python
+- Modelagem de banco de dados e construção de sistemas CRUD
+- Levantamento de requisitos, documentação técnica e testes
+- Projetos envolvendo gestão de produtores, propriedades, visitas, relatórios e controle de informações
+
+---
+
+## Tecnologias que uso e estudo
+
+### Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Front-end e Mobile
+
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+### Back-end, Banco de Dados e Ferramentas
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Dados, IA e Testes
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+
+---
+
+## Projetos e interesses
+
+Atualmente, tenho focado em projetos envolvendo:
+
+- Sistemas empresariais e automação de processos
+- Desenvolvimento Java com orientação a objetos
+- Aplicações full stack
+- Aplicativos mobile com React Native
+- APIs, banco de dados e integração de sistemas
+- Soluções com IA aplicada a rotinas internas
+- Organização e extração de dados
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Árlisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlisson&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlisson&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Árlisson%20Alves-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1rlisson-alves-da-silva-silveira-137669242)
+[![GitHub](https://img.shields.io/badge/GitHub-arlisson-181717?style=flat&logo=github&logoColor=white)](https://github.com/arlisson)
+[![Instagram](https://img.shields.io/badge/Instagram-arlisson__leesin-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arlisson_leesin)
+
+---
+
+> Construindo soluções com código, organização e aprendizado contínuo.
