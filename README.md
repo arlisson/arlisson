@@ -73,6 +73,18 @@ Tenho interesse especial por desenvolvimento de software, Java, programação or
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
 
 ---
+## Linguagens mais utilizadas
+
+<div align="center">
+
+<img 
+  height="180"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=arlisson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</div>
+
+---
 
 ## Projetos e interesses
 
@@ -88,28 +100,18 @@ Atualmente, tenho focado em projetos envolvendo:
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<div align="center">
+![Java](https://img.shields.io/badge/Foco-Java%20OOP-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Área-Full%20Stack-007ACC?style=flat)
+![Mobile](https://img.shields.io/badge/Mobile-React%20Native-20232a?style=flat&logo=react&logoColor=61DAFB)
 
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=arlisson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlisson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-</div>
-
+Meu GitHub reúne projetos de estudo e desenvolvimento envolvendo Java, Python, JavaScript, React Native, banco de dados, automação de processos e aplicações voltadas à organização de informações.
 ---
 
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Árlisson%20Alves-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1rlisson-alves-da-silva-silveira-137669242)
-[![GitHub](https://img.shields.io/badge/GitHub-arlisson-181717?style=flat&logo=github&logoColor=white)](https://github.com/arlisson)
 [![Instagram](https://img.shields.io/badge/Instagram-arlisson__leesin-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arlisson_leesin)
 
 ---
