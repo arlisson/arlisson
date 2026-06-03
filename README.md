@@ -16,7 +16,7 @@ Tenho interesse especial por desenvolvimento de software, Java, programação or
 - 📱 Desenvolvimento mobile com React Native e Expo
 - 🗄️ Interesse em banco de dados, modelagem e organização de informações
 - 🤖 Experiência com automação de processos e agentes de IA
-- 📚 Gosto de aprender, documentar e transformar ideias em aplicações úteis
+- 📚 Aprendizado contínuo, documentação e transformação de ideias em aplicações úteis
 
 ---
 
