@@ -92,9 +92,15 @@ Atualmente, tenho focado em projetos envolvendo:
 
 <div align="center">
 
-![Árlisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlisson&show_icons=true&theme=tokyonight&hide_border=true)
+<img 
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=arlisson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlisson&layout=compact&theme=tokyonight&hide_border=true)
+<img 
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlisson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
 </div>
 
